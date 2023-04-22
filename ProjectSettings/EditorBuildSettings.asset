@@ -38,12 +38,21 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/test/5.unity
     guid: eb390e3f47cecfe4d9a8b488559b9d6f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - EyeTracking/Scenes/EyeTrackingDemo-00-RootScene.unity
     guid: 27c3fbe0128089f48994cdc6af8668fc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - EyeTracking/Scenes/EyeTrackingDemo-01-BasicSetup.unity
     guid: 3ac2cf3aa0e281340babd2053d8b7d46
+  - enabled: 1
+    path: Assets/Scenes/UI/0.unity
+    guid: 161c941bca5f66e4dbc05b208ebc2ca7
+  - enabled: 1
+    path: Assets/Scenes/UI/1.unity
+    guid: bc1e8c46c5880fd4cb19b9d93f11d842
+  - enabled: 1
+    path: Assets/Scenes/UI/2.unity
+    guid: 8f2841f4eb91c9348b57f023c003fc97
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 251394075a9045d468d931fa629089e3, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 617291b75703e7e4596bc664842af724, type: 2}
